@@ -1,3 +1,8 @@
+# Forked Project
+Theres new feature will be development
+- VueJS Polished Component Framework
+- Some fix with design
+
 # Polished Admin Template
 Polished Admin bootstrap admin template based on [Bootstrap v4](http://getbootstrap.com/).
 
